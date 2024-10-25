@@ -42,9 +42,16 @@ The system raises an alarm and displays "Critical alert!" on the LCD if fire is 
  2. **Light Sensor:** LDR.
  3. **Temperature Sensor:** LM35 Temperature Sensor.
  4. **Display:** 16x2 LCD in 8-bit mode.
- 5. **LEDs:** Red,Green and Blue.
- 6. **Flame Sensor:** to detect fire.
- 7. **Buzzer:** activated during fire alert.
+ 5. **Motor Control:** H-Bridge.
+ 6. **Motor:** DC-motor.
+ 7. **LEDs:** Red,Green and Blue.
+ 8. **Flame Sensor:** to detect fire.
+ 9. **Buzzer:** activated during fire alert.
+
+
+![Screenshot 2024-10-26 000256](https://github.com/user-attachments/assets/ae9747bc-f58f-4bb3-8f26-d5a0cdfd34b0)
+
+
 
 # **Operation Description:**
 ### 1. **Lighting Control (LDR):**
