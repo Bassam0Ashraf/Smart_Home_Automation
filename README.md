@@ -458,6 +458,7 @@ This is an educational project developed as part of the Standard Embedded Diplom
 **Program**: EDGES Training Program  
 **Development Environment**: Eclipse IDE, Proteus Design Suite  
 **Language**: C  
+**Target Hardware**: ATmega32 Microcontroller 
 
 ---
 
